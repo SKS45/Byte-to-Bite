@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual env
+venv/
+env/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# FastAPI uploads or temp
+uploads/
+
+# .gitignore
+*.ckpt
+*.pt
+*.h5
+*.pkl
